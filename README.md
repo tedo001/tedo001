@@ -4,4 +4,4 @@ Welcome to my GitHub profile!
 
 ## 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow,github,docker,linux,pycharm,git,js,html,css" />
+<img src="https://skillicons.dev/icons?i=2python,numpy,pandas,tensorflow,github,docker,linux,pycharm,git,js,html,css" />
