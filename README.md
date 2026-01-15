@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Durgamani (Tedo)
-
-Aspiring AI & Data Science developer focused on Python and automation.
-
 ## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow,github,git,docker,linux,pycharm,jupyter" />
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=python,github,git,docker,linux,pycharm" />
+
+  <!-- Data & AI (custom icons) -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyter.svg" />
 </p>
