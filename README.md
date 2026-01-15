@@ -1,7 +1,15 @@
-# Hi, I'm Tedo 👋
+# Hi, I'm durgamani sasikumar 👋
 
 Welcome to my GitHub profile!
 
-## 🧰 Tools & Technologies
+- **Languages**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
 
-<img src="https://skillicons.dev/icons?i=2python,numpy,pandas,tensorflow,github,docker,linux,pycharm,git,js,html,css" />
+- **Data & AI**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
+
+- **Tools**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github,git,docker,linux,pycharm" />
