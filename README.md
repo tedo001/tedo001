@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 Tools & Technologies
-
 <p align="center">
   <!-- Platforms & Tools -->
   <img src="https://skillicons.dev/icons?i=python,github,git,docker,linux,pycharm" />
