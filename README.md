@@ -1,4 +1,4 @@
-## Hi, I'm Tedo 👋
+## Hi, I'm durgamani sasikumar 👋 just call me tedo!
 
 Welcome to my GitHub profile!
 Tools & Technologies
