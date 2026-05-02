@@ -49,13 +49,17 @@ website     : welldropp.vercel.app
 </p>
 
 ---
+<<<<<<< claude/improve-profile-readme-TrXcp
+## Contribution Calendar
 
-## Contribution Graph
+> Days of week (Sun → Sat) on the **Y-axis** &nbsp;·&nbsp; Weeks scroll **right → left** (most recent on right) &nbsp;·&nbsp; Color intensity = contribution count
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/00b4d8/tedo001" alt="tedo001's Contribution Calendar" width="100%" />
 </p>
-
+=======
+## Contribution Graph
+>>>>>>> main
 ---
 
 <div align="center">
