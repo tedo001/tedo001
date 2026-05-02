@@ -40,12 +40,6 @@ website     : welldropp.vercel.app
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tedo001&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
-</p>
 ---
 
 <div align="center">
