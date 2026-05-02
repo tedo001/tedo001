@@ -22,7 +22,6 @@ focus       : ML Pipelines · Model Serving · Data Infrastructure
 skills      : Python, Docker, TensorFlow, MySQL, NumPy, Pandas
 platforms   : Linux, Git, Jupyter, PyCharm
 currently   : Building reproducible ML workflows and production systems
-leetcode    : durgamani007  →  sharpening algorithms & problem solving
 website     : welldropp.vercel.app
 ```
 
@@ -47,24 +46,9 @@ website     : welldropp.vercel.app
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
 </p>
-
----
-<<<<<<< claude/improve-profile-readme-TrXcp
-## Contribution Calendar
-
-> Days of week (Sun → Sat) on the **Y-axis** &nbsp;·&nbsp; Weeks scroll **right → left** (most recent on right) &nbsp;·&nbsp; Color intensity = contribution count
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00b4d8/tedo001" alt="tedo001's Contribution Calendar" width="100%" />
-</p>
-=======
-## Contribution Graph
->>>>>>> main
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tedo001&label=Profile+Views&color=00b4d8&style=flat-square)
 
 *"In God we trust; all others must bring data."*
 
