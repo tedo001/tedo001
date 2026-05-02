@@ -1,62 +1,75 @@
-<h1 align="center">Hi there, I'm Durgamani Sasikumar 👋</h1>
-<h3 align="center">Just call me <strong>tedo</strong> — Developer | Data Enthusiast | Open Source Fan</h3>
+<div align="center">
+
+# Hi, I'm Durgamani Sasikumar &nbsp;👋
+### `tedo` &nbsp;·&nbsp; MLOps Engineer &nbsp;·&nbsp; Data & AI Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=MLOps+Engineer;Building+ML+Pipelines+%26+Infra;Python+%7C+Docker+%7C+TensorFlow;Turning+Models+into+Production+Systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-durgamani--sasikumar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/durgamani-sasikumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-durgamani007-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/durgamani007/)
+[![Website](https://img.shields.io/badge/Website-welldropp.vercel.app-00B4D8?style=flat-square&logo=vercel&logoColor=white)](https://welldropp.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-tedo001-181717?style=flat-square&logo=github)](https://github.com/tedo001)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+role        : MLOps Engineer
+focus       : ML Pipelines · Model Serving · Data Infrastructure
+skills      : Python, Docker, TensorFlow, MySQL, NumPy, Pandas
+platforms   : Linux, Git, Jupyter, PyCharm
+currently   : Building reproducible ML workflows and production systems
+leetcode    : durgamani007  →  sharpening algorithms & problem solving
+website     : welldropp.vercel.app
+```
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Python+Developer;Data+Science+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,docker,linux,git,github,mysql,numpy,pandas,jupyter,pycharm" />
 </p>
 
 ---
 
-## About Me
-
-- Currently working with **Python**, **Machine Learning**, and **Data Science**
-- Passionate about turning data into actionable insights
-- Always exploring new tools and technologies
-- Ask me about **Python**, **TensorFlow**, **Pandas**, **Docker**
-
----
-
-## Tools & Technologies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,github,git,docker,linux,pycharm,tensorflow,mysql,numpy,pandas,jupyter" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tedo001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=tedo001&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tedo001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tedo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
 </p>
 
 ---
 
-## Connect With Me
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/tedo001">
-    <img src="https://img.shields.io/badge/GitHub-tedo001-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tedo001&label=Profile+Views&color=00b4d8&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it's bad."</em></p>
+![Profile Views](https://komarev.com/ghpvc/?username=tedo001&label=Profile+Views&color=00b4d8&style=flat-square)
+
+*"In God we trust; all others must bring data."*
+
+</div>
