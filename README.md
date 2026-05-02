@@ -58,10 +58,16 @@ website     : welldropp.vercel.app
 
 ---
 
-## 📈 Contribution Graph
+## 📅 Contribution Calendar
+
+> Days of week (Sun → Sat) on the **Y-axis** &nbsp;·&nbsp; Weeks scroll **right → left** (most recent on right) &nbsp;·&nbsp; Color intensity = contribution count
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/00b4d8/tedo001" alt="tedo001's Contribution Calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Count%20Over%20Time" />
 </p>
 
 ---
