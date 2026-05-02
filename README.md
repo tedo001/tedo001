@@ -13,17 +13,14 @@
 </div>
 
 ---
+##  GitHub Stats
 
-## About Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tedo001&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+---
 
-```yaml
-role        : MLOps Engineer
-focus       : ML Pipelines · Model Serving · Data Infrastructure
-skills      : Python, Docker, TensorFlow, MySQL, NumPy, Pandas
-platforms   : Linux, Git, Jupyter, PyCharm
-currently   : Building reproducible ML workflows and production systems
-website     : welldropp.vercel.app
-```
+<div align="center">
 
 ---
 
@@ -35,14 +32,7 @@ website     : welldropp.vercel.app
 
 ---
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tedo001&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
----
-
-<div align="center">
 
 *"In God we trust; all others must bring data."*
 
