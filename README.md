@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Durgamani Sasikumar &nbsp;👋
-### `tedo` &nbsp;·&nbsp; MLOps Engineer &nbsp;·&nbsp; Data & AI Enthusiast
+### `tedo` &nbsp;·&nbsp; MLOps Engineer &nbsp;·&nbsp; Student &nbsp;·&nbsp; Founder &nbsp;·&nbsp; AI & Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=MLOps+Engineer;Building+ML+Pipelines+%26+Infra;Python+%7C+Docker+%7C+TensorFlow;Turning+Models+into+Production+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=580&lines=MLOps+Engineer;Student+%26+Founder;AI+%26+Web+Developer;Predictive+Modeling+%7C+Startups+%7C+Building)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-durgamani--sasikumar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/durgamani-sasikumar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-durgamani007-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/durgamani007/)
@@ -17,11 +17,12 @@
 ## 🧠 About Me
 
 ```yaml
-role        : MLOps Engineer
-focus       : ML Pipelines · Model Serving · Data Infrastructure
+role        : MLOps Engineer  |  Student  |  Founder
+focus       : AI & Web Development  ·  Predictive Modeling  ·  Startups
 skills      : Python, Docker, TensorFlow, MySQL, NumPy, Pandas
 platforms   : Linux, Git, Jupyter, PyCharm
-currently   : Building reproducible ML workflows and production systems
+pronoun     : he/him
+currently   : Building ML workflows, production systems & startups
 leetcode    : durgamani007  →  sharpening algorithms & problem solving
 website     : welldropp.vercel.app
 ```
@@ -51,23 +52,28 @@ website     : welldropp.vercel.app
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo001&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tedo001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tedo001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tedo001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tedo001&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tedo001&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📅 Contribution Calendar
 
-> Days of week (Sun → Sat) on the **Y-axis** &nbsp;·&nbsp; Weeks scroll **right → left** (most recent on right) &nbsp;·&nbsp; Color intensity = contribution count
+> **Y-axis** = days of week (Sun → Sat) &nbsp;·&nbsp; **X-axis** = weeks (oldest → newest) &nbsp;·&nbsp; color intensity = contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00b4d8/tedo001" alt="tedo001's Contribution Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/00b4d8/tedo001" alt="Contribution Calendar" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Count%20Over%20Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tedo001&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
 
 ---
